@@ -1,5 +1,5 @@
 # Calories Tracker APP
-![](images/calories-app.png)
+![](calories-app.png)
 ### Meal and Calories tracker using JS Module pattern. 
 - Made with HTML, CSS, JS, Materialize CSS (No libraries, no frameworks, no jQuery, just vanilla JS);
 - Made with ES5 syntax (no classes added, just IIFE (Immediately Invoked Function Expression))
